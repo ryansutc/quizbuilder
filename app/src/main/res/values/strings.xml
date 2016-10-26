@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizBuilder</string>
+    <string name="termQuestion">This is the term in Question</string>
+    <string name="txtOptionA">A. This is the definition for Option A</string>
+    <string name="txtOptionB">B. This is the definition for Option A</string>
+    <string name="txtOptionC">C. This is the definition for Option A</string>
+    <string name="txtOptionD">D. This is the definition for Option A</string>
+    <string name="txtAnswerA">This is the definition for answer A. ipsum lorum ipfso temtas i.</string>
+    <string name="txtAnswerB">This is the definition for answer B. ipsum lorum ipfso temtas i.</string>
+    <string name="txtAnswerC">This is the definition for answer C. ipsum lorum ipfso temtas i.</string>
+    <string name="txtAnswerD">This is the definition for answer D. ipsum lorum ipfso temtas i.</string>
+
+    <string name="txtTerm">This is the term to define</string>
+    <string name="txtFeedbackGood">Correct! Good Job</string>
+    <string name="txtFeedbackBad">Sorry Wrong Answer.</string>
+    <string name="welcome_text">Welcome to Quizicle</string>
+    <string name="enterName">Please Enter Your Name</string>
+    <string name="start">Start!</string>
+    <string name="btnNext_text">Next</string>
+    <string name="tvQCount_text">out of</string>
+    <string name="tvScore_text">Your Score is:</string>
+    <string name="btn_Next_text">Next</string>
+    <string name="tvResult_text">Enter Happy Message Here</string>
+    <string name="btnTryAgain_text">Try Again</string>
+    <string name="btnHome_text">Home</string>
+</resources>
